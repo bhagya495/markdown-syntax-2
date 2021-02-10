@@ -82,4 +82,4 @@ print("hello")
 - git push remotename branchname
 - git pull remotename branchname
 ## inserting images
-!.[images].(https://github.com/bhagya495/markdown-syntax-2/blob/master/img1.jpg)
+!.[images](https://github.com/bhagya495/markdown-syntax-2/blob/master/img1.jpg)
