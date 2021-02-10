@@ -26,12 +26,12 @@ __*sample text*__
 >>>>hsdvvbhfdifyhfbjbjblb
 ## ordered list
 1. vinni
-2.bhagya
-3.harshi
-    1.teja
-    2.laptop
-4.sowmya
-5.vhyshu
+2. bhagya
+3. harshi
+    1. teja
+    2. laptop
+4. sowmya
+5. vhyshu
 ## unordered list
 - ece
     * ecea
@@ -39,3 +39,12 @@ __*sample text*__
 - eee
     +eeea
     +eeeb
+## code of function defination
+`
+def fun();
+    print("happy teddy day")
+`
+## function calling
+`
+fun()
+`
