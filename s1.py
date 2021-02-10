@@ -1,0 +1,2 @@
+print("happy teddy day")
+
