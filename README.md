@@ -28,7 +28,7 @@ __*sample text*__
 1. vinni
 2.bhagya
 3.harshi
-  1.teja
-  2.laptop
+    1.teja
+    2.laptop
 4.sowmya
 5.vhyshu
