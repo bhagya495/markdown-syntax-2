@@ -40,11 +40,11 @@ __*sample text*__
     +eeea
     +eeeb
 ## code of function defination
-`
+```
 def fun():
 
 print("happy teddy day")
-`
+```
 ## function calling
 `
 fun()
