@@ -57,3 +57,8 @@ print("hello")
 
 ## links
 .[google].(https://www.google.com/)
+
+## add gmail link
+## add college website link
+.[gmail].(vineelapalagiri@gmail.com)
+.[college website].(https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
