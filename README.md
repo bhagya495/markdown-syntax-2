@@ -41,8 +41,9 @@ __*sample text*__
     +eeeb
 ## code of function defination
 `
-def fun();
-    print("happy teddy day")
+def fun():
+
+print("happy teddy day")
 `
 ## function calling
 `
