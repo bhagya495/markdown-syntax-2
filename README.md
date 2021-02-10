@@ -60,7 +60,7 @@ print("hello")
 
 ## add gmail link
 ## add college website link
-.[gmail].(vineelapalagiri@gmail.com)
+.[gmail].
 .[college website].(https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
 ## git commands
 - git init
