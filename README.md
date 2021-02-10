@@ -1,2 +1,6 @@
-# markdown-syntax-2
-today markdownsyntax day2 workshop
+# home autoomation by alexa
+## components
+### circuit diagram
+#### analysis
+##### output observation
+####### conclusion
