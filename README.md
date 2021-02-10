@@ -49,3 +49,8 @@ print("happy teddy day")
 `
 fun()
 `
+## task
+```
+def fun()
+print("hello")
+```
