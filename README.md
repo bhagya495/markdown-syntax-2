@@ -84,5 +84,5 @@ print("hello")
 ## inserting images
 ![images](https://github.com/bhagya495/markdown-syntax-2/blob/master/img1.jpg)
 ## inserting videos
-[![song]
-(\(https://img.youtube.com/vi/JHUrRSBtUNE/0.jpg)](https://www.youtube.com/watch?v=JHUrRSBtUNE)
+[![song](https://img.youtube.com/vi/JHUrRSBtUNE/0.jpg)](https://www.youtube.com/watch?v=JHUrRSBtUNE)
+
